@@ -24,6 +24,6 @@ How to use:
 dds_texture = DDSTexture()
 dds_texture.load(filename)
 
-for surface in dds_texture.surface:
+for surface in dds_texture.surfaces:
 	print(surface)
 ```
