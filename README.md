@@ -1,3 +1,6 @@
+**Note**
+This is a simple script that was part of a pipeline tool. The only purpose was to extract metadata/data from dds textures and assemble them in an engine specific format. 
+
 # dds-loader-python
 Python 3.5 DDS Loader 
 
